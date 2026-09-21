@@ -1,4 +1,4 @@
-# Consulting Lead Researcher
+# Startup Consulting Lead Researcher
 
 Python CLI that researches **early-stage prospects** for AWS / cloud consulting outreach.
 
